@@ -8,6 +8,7 @@ The purpose of this project is to analyze the written reviews of the paid Amazon
   * There were 94 total reviews from Vine members
 
   * There were 40,471 total reviews from non Vine members
+
 ![Total No Vine.png](https://github.com/JeremyKRay/Amazon_Vine_Analysis/blob/88f048384839d7860ceb15bdbc9972769d97b6b2/Total%20No%20Vine.png)
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
