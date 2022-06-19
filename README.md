@@ -6,6 +6,7 @@ The purpose of this project is to analyze the written reviews of the paid Amazon
 ## Results
 ### How many Vine reviews and non-Vine reviews were there?
   * There were 94 total reviews from Vine members
+![Linear Regression and Summary.png](https://github.com/JeremyKRay/MechaCar_Statistical_Analysis/blob/33132bae122ac66c3498323fb817d23d4d1f07aa/Linear%20Regression%20and%20Summary.png)
   * There were 40,471 total reviews from non Vine members
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
